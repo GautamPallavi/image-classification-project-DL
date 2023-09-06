@@ -6,6 +6,7 @@ matplotlib
 seaborn
 dvc
 scipy
+python-box[all]~=7.0
 ensure
 Flask
 Flask-Cors

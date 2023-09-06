@@ -1,4 +1,4 @@
-from cnnClassifier import logger
+from cnnClassifier import logger as logger
 import sys
 
 print(sys.path)
