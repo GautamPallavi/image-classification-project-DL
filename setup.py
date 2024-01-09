@@ -6,7 +6,7 @@ with open ("README.md",'r', encoding="utf-8") as f:
 __version__= "0.0.0"
 
 REPO_Name="image-classification-project-DL"
-AUTHOR_NAME="Pallavi Gautam"
+AUTHOR_NAME="GautamPallavi"
 SRC_REPO="cnnClassifier"
 AUTHOR_EMAIL="pallavigautam14052gmail.com"
 
